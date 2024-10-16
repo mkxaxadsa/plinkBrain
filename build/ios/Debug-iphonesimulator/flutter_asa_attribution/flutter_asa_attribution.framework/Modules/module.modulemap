@@ -1,0 +1,6 @@
+framework module flutter_asa_attribution {
+  umbrella header "flutter_asa_attribution-umbrella.h"
+
+  export *
+  module * { export * }
+}
